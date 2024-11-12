@@ -1,0 +1,6 @@
+flask
+flask-cors
+torch
+transformers
+accelerate
+ollama

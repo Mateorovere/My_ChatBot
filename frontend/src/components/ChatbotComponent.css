@@ -1,0 +1,113 @@
+/* src/components/ChatbotComponent.css */
+.chat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .chat-content {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fafafa;
+  }
+  
+  .message {
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  
+  .message.user .message-content {
+    background-color: #daf1da;
+    align-self: flex-end;
+  }
+  
+  .message.bot .message-content {
+    background-color: #f1f0f0;
+    align-self: flex-start;
+  }
+  
+  .message-content {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 80%;
+    word-wrap: break-word;
+  }
+  
+  .input-area {
+    display: flex;
+    margin-top: 1rem;
+  }
+  
+  .input-area input {
+    flex: 1;
+    padding: 0.5rem;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+  }
+  
+  .input-area button {
+    padding: 0.5rem 1rem;
+    font-size: 16px;
+    border: 1px solid #28a745;
+    background-color: #28a745;
+    color: white;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .input-area button:hover {
+    background-color: #218838;
+  }
+  
+  .loading {
+    font-style: italic;
+    color: gray;
+  }
+  
+  footer {
+    margin-top: 2rem;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .social-links a {
+    color: #6c757d;
+    transition: color 0.3s;
+  }
+  
+  .social-links a:hover {
+    color: #343a40;
+  }
+  

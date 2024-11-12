@@ -1,0 +1,86 @@
+PERSONAL SUMMARY
+Mateo Rovere is a Machine Learning Engineer at Terragene, a co-founder of Vanguard Solutions, and a graduate at the Universidad Nacional de Rosario (UNR), pursuing a degree in Artificial Intelligence. With a strong background in machine learning, deep learning, and MLOps, he has developed expertise across computer vision, NLP, and data science, both professionally and in his personal projects.
+
+PERSONAL INFORMATION
+Name: Mateo Rovere
+Location: Rosario, Argentina
+Contact: +54 9 341 318 5457
+Email: roveremateo@gmail.com
+LinkedIn: https://www.linkedin.com/in/mateo-rovere/
+GitHub: https://github.com/mateorovere
+
+EDUCATION
+- Associate's Degree in Artificial Intelligence (UNR)
+  Period: 2022-2026
+  Location: Rosario, Argentina
+  GPA: 8.4/10
+
+LANGUAGE PROFICIENCY
+- Spanish: Native
+- English: Advanced Level (B2) - First Certificate Exam from Carnaby English School
+- Portuguese: Advanced Level
+- French: Limited Working Proficiency
+
+PROFESSIONAL EXPERIENCE
+
+Current Positions:
+1. Machine Learning Engineer at Terragene
+   Period: September 2023 - Present
+   Key Responsibilities:
+   - Data preprocessing and management for actionability
+   - Development of Computer Vision models using transfer learning and CNNs
+   - Implementation of image segmentation using SAM and U-Nets
+   - Model deployment on Azure with MLOps and Docker
+   - Chatbot development using RAG, LangChain, BERT, and LLama 3
+   - Integration of OpenAI API Assistants with WhatsApp via Meta API
+   - Training and deployment of Yolov10 for bacteria detection
+
+2. Co-Founder & MLOps Engineer at Vanguard Solutions
+   Period: September 2024 - Present
+   Key Responsibilities:
+   - EC2 instance management and Nginx webhook configuration
+   - CICD Pipeline creation using Github Actions
+   - Model experimentation and fine-tuning on DagsHub
+   - Implementation of Data Version Control (DVC)
+
+TECHNICAL PROJECTS
+
+Computer Vision:
+- MNIST dataset solutions
+- Kaggle competitions: Cat/Dog and Horse/Human classification
+- Dog breed recognition system using Transfer Learning
+- Face Recognition system implementation
+
+Data Science & Machine Learning:
+- Australian weather analysis with Streamlit visualization
+- Multiple classification projects:
+  * Titanic survival prediction
+  * Wine quality classification
+  * Home price prediction
+  * Cancer diagnosis prediction
+  * Tourism in Argentina linear regression
+
+Natural Language Processing:
+- Specialized anatomy chatbot using RAG with Llama model
+
+Data Analysis & Visualization:
+- Tokyo dataset analysis
+- Wine industry analysis
+- Power BI reporting experience
+
+API & Data Engineering:
+- Rick & Morty information API development
+- Data Warehouse creation using SSIS and SQL Server
+
+TECHNICAL SKILLS
+- Frameworks: TensorFlow, PyTorch, Django
+- Cloud: Azure, AWS
+- MLOps: Docker, Github Actions
+- Tools: Streamlit, Power BI
+- Deep Learning: CNNs, Transfer Learning, RAG
+- Computer Vision: YOLOv10, SAM, U-Net
+- NLP: LangChain, BERT, LLama 3
+
+ACHIEVEMENTS
+- Participated in OZ Datathon
+- Participated in Jornadas Rosarinas de Ciencia de Datos

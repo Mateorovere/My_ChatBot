@@ -1,0 +1,29 @@
+/* src/components/Message.css */
+.message {
+    display: flex;
+  }
+  
+  .message.user {
+    justify-content: flex-end;
+  }
+  
+  .message.bot {
+    justify-content: flex-start;
+  }
+  
+  .message-content {
+    background-color: #f1f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 80%;
+    word-wrap: break-word;
+  }
+  
+  .message.user .message-content {
+    background-color: #daf1da;
+  }
+  
+  .message.bot .message-content {
+    background-color: #f1f0f0;
+  }
+  
